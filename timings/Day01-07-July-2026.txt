@@ -1,0 +1,4 @@
+Today attented Day01/30 of morning session (2 hours)
+Learned about the different tools of devops (1 hour)
+Created git repo of July2026_Moin_Pathnex (30 minutes)
+Read the Road map of devops (30 mins)
