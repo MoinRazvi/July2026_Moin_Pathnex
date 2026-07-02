@@ -1,0 +1,9 @@
+In todays session learned how to setup EC2 instance on AWS and install git and push the files to git hub (2 hours)
+
+Tried to create the AWS and did not created because my AWS account had expired or removed all the free credits, alternate I have setup on local and push the files to git hub. (1.5 hours)
+
+Trouble shooted the AWS account for free credits (1 hour)
+
+Attented Evening session (2 hours)
+
+Reviewed Day-02 session once again for git related stuff (0.5 hours)
