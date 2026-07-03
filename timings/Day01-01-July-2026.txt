@@ -1,4 +1,16 @@
-Today attented Day01/30 of morning session (2 hours)
-Learned about the different tools of devops (1 hour)
-Created git repo of July2026_Moin_Pathnex (30 minutes)
-Read the Road map of devops (30 mins)
+# Day01 - Activities details
+----------------------------
+1) 2 hours attended the morning class which is on Devops Roadmaps.
+2) 1 hour learned about the  different tools of devops and overview how the tools will function.
+3) 1 hour prepaired for document on devops roadmap for evening class/session.
+4) Created git repo of July2026_Moin_Pathnex (30 minutes)
+5) attended evening session at 7.30pm to 8:15pm and given introduction of myself and also talked about morning session topic.
+
+# Tomorrow's Task
+---------------------------
+1) I will attend morning class at 6 am.
+2) Watch video again and comment on the video.
+3) Create account on AWS and setup the EC2 instance on it.
+4) I will watch video of intigrate the EC2+github+git together.
+5) I will create the directories for daily activities and coding pratice and push code for day01 over the git hub repository.
+6) I will practie the Day01 coding

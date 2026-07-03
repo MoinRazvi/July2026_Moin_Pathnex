@@ -1,9 +1,21 @@
-In todays session learned how to setup EC2 instance on AWS and install git and push the files to git hub (2 hours)
+# Day01 - Activities details
+----------------------------
+1) 2 hours (Attended the morning class how to setup EC2 instance on AWS and install git and push the files to git hub.)
 
-Tried to create the AWS and did not created because my AWS account had expired or removed all the free credits, alternate I have setup on local and push the files to git hub. (1.5 hours)
+2) 1.5 hours (Tried to create the AWS and did not created because my AWS account had expired or removed all the free credits, alternate I have setup on local and push the files to git hub.) 
 
-Trouble shooted the AWS account for free credits (1 hour)
+3) 1 hour (Troubleshooting the AWS account for free credits.)
 
-Attented Evening session (2 hours)
+4) 2 hours (Attented Evening session.)
 
-Reviewed Day-02 session once again for git related stuff (0.5 hours)
+5) 30 miutes (Reviewed Day-02 session once again for git related stuff.)
+
+# Tomorrow's Task
+---------------------------
+1) 2 hours (I will attend morning class at 6 am.)
+
+2) 1 hour (Watch video again and comment on the video.)
+
+3) 2 hours (Practice Day01,Day02, coding)
+
+4) 1 hour (I will attend the evening session.)                                             
