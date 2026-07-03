@@ -1,4 +1,4 @@
-# Day01 - Activities details
+# Day-02 - Activities details
 ----------------------------
 1) 2 hours (Attended the morning class how to setup EC2 instance on AWS and install git and push the files to git hub.)
 
