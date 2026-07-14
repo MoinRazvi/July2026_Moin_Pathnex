@@ -1,0 +1,21 @@
+i# Day-05 - Activities details
+----------------------------
+1) 2 hours (Attended the morning class)
+
+2) 1.5 hours (Practiced Linux commands) 
+
+3) 1 hour (Troubleshooting Linux Commands)
+
+4) 45 minutes (Attented Evening session.)
+
+5) 30 miutes (Reviewed Day-05 session once again.)
+
+# Tomorrow's Task
+---------------------------
+1) 2 hours (I will attend morning class at 6 am.)
+
+2) 1 hour (Watch video again and comment on the video.)
+
+3) 3 hours (Practice )
+
+4) 30 hour (I will attend the evening session.)                                             
